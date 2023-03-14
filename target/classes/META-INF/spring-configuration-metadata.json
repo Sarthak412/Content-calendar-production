@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "cc",
+      "type": "com.sarthak.ContentCalendar.config.ContentCalendarProperties",
+      "sourceType": "com.sarthak.ContentCalendar.config.ContentCalendarProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cc.about",
+      "type": "java.lang.String",
+      "sourceType": "com.sarthak.ContentCalendar.config.ContentCalendarProperties"
+    },
+    {
+      "name": "cc.welcome-message",
+      "type": "java.lang.String",
+      "sourceType": "com.sarthak.ContentCalendar.config.ContentCalendarProperties"
+    }
+  ],
+  "hints": []
+}
